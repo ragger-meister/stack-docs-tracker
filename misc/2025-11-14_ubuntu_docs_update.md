@@ -1,23 +1,23 @@
 ---
 date: 2025-11-14
-technology: pytorch
-title: Pytorch docs – daily check
+technology: ubuntu
+title: Ubuntu docs – daily check
 tags:
   - docs-change
   - auto-generated
 sources:
-  - https://pytorch.org/docs/stable/index.html
-  - https://pytorch.org/blog/
-hash_previous: c1c01da44a665ee7465fef32f523f91828c4e43d21df5e1d8c880f3cf525a5a4
-hash_current: 05809bf37a09ee07fc02d4b2f1e24963fedfb80b489e520e9e38302a9d5acd48
+  - https://ubuntu.com/download/desktop
+  - https://discourse.ubuntu.com/
+hash_previous: 
+hash_current: fdc78159ee200c7733b9f392be6a036dd9b57fad22c206bdebd8236ce7db7490
 layout: engineering-devlog
 ---
 
-# Pytorch docs – daily check
+# Ubuntu docs – daily check
 
             ## Context
 
-            Daily documentation scan for **Pytorch**.
+            Daily documentation scan for **Ubuntu**.
             This note is part of the continuous tracking of upstream changes across the stack.
 
             ## Observed changes
@@ -28,13 +28,13 @@ layout: engineering-devlog
 
             ## Technical details
 
-            - Previous combined hash: `c1c01da44a665ee7465fef32f523f91828c4e43d21df5e1d8c880f3cf525a5a4`
-            - New combined hash: `05809bf37a09ee07fc02d4b2f1e24963fedfb80b489e520e9e38302a9d5acd48`
+            - Previous combined hash: `N/A`
+            - New combined hash: `fdc78159ee200c7733b9f392be6a036dd9b57fad22c206bdebd8236ce7db7490`
 
             ### Tracked sources
 
-            - https://pytorch.org/docs/stable/index.html
-- https://pytorch.org/blog/
+            - https://ubuntu.com/download/desktop
+- https://discourse.ubuntu.com/
 
             ## Impact
 

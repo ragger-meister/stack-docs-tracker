@@ -1,34 +1,43 @@
 ---
 date: 2025-11-14
 technology: isaac_sim
-title: Isaac Sim docs  daily check
+title: Isaac Sim docs – daily check
 tags:
-  - docs-change
+  - docs-check
   - auto-generated
 sources:
   - https://docs.isaacsim.omniverse.nvidia.com
-hash_previous: 
+hash_previous: 1c113a9b8bfd28235b498bdb5f821c507e77bab9ce286d3dc460f76651c6112e
 hash_current: 1c113a9b8bfd28235b498bdb5f821c507e77bab9ce286d3dc460f76651c6112e
+layout: engineering-devlog
 ---
 
-# Isaac Sim docs  daily check
+# Isaac Sim docs – daily check
 
-## High-level summary
+## Context
 
-- Detected a content change in the official documentation sources.
-- The exact diff is not stored here, but this note marks that something
-  changed in the upstream docs for Isaac Sim.
+Daily documentation scan for **Isaac Sim**.
+On this run, no relevant content drift was detected based on hash comparison.
 
-## Details
+## Observed changes
 
-- Previous combined hash: `N/A`
-- New combined hash: `1c113a9b8bfd28235b498bdb5f821c507e77bab9ce286d3dc460f76651c6112e`
+- No significant differences in the tracked documentation sources.
+
+## Technical details
+
+- Combined hash: `1c113a9b8bfd28235b498bdb5f821c507e77bab9ce286d3dc460f76651c6112e`
 
 ### Tracked sources
 
 - https://docs.isaacsim.omniverse.nvidia.com
 
-## Notes / next actions
+## Impact
 
-- [ ] Review the upstream documentation pages and identify the most relevant changes.
-- [ ] Update any local notes or code examples that depend on this documentation.
+- Local notes and examples are still aligned with the current upstream docs
+  (as far as this coarse check can tell).
+
+## Follow-up
+
+- [ ] No immediate action required.
+- [ ] (Optional) Skim the docs if you are about to start new work related
+      to this technology.

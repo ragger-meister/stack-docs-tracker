@@ -1,22 +1,22 @@
 ---
 date: 2025-11-14
-technology: omniverse_kit
-title: Omniverse Kit docs – daily check
+technology: torchaudio
+title: Torchaudio docs – daily check
 tags:
   - docs-change
   - auto-generated
 sources:
-  - https://github.com/NVIDIA-Omniverse/kit-app-template
-hash_previous: 84a752570c97b7f416951c1b35ad487afceeb5a7dd8237ab489776092ee4a6a0
-hash_current: 86a12b797ae607e2941079cdde9de7bd25827cdc46d4467fdbdeffdd6fab45cc
+  - https://pytorch.org/audio/stable/index.html
+hash_previous: 
+hash_current: 6b3f5b9efcde41972bf78c3e1805480c092824618b0cbb0507c5aa00a3260640
 layout: engineering-devlog
 ---
 
-# Omniverse Kit docs – daily check
+# Torchaudio docs – daily check
 
 ## Context
 
-Daily documentation scan for **Omniverse Kit**.
+Daily documentation scan for **Torchaudio**.
 This note is part of the continuous tracking of upstream changes across the stack.
 
 ## Observed changes
@@ -27,12 +27,12 @@ This note is part of the continuous tracking of upstream changes across the stac
 
 ## Technical details
 
-- Previous combined hash: `84a752570c97b7f416951c1b35ad487afceeb5a7dd8237ab489776092ee4a6a0`
-- New combined hash: `86a12b797ae607e2941079cdde9de7bd25827cdc46d4467fdbdeffdd6fab45cc`
+- Previous combined hash: `N/A`
+- New combined hash: `6b3f5b9efcde41972bf78c3e1805480c092824618b0cbb0507c5aa00a3260640`
 
 ### Tracked sources
 
-- https://github.com/NVIDIA-Omniverse/kit-app-template
+- https://pytorch.org/audio/stable/index.html
 
 ## Impact
 

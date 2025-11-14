@@ -1,22 +1,22 @@
 ---
 date: 2025-11-14
-technology: moveit2
-title: Moveit2 docs – daily check
+technology: cudnn
+title: Cudnn docs – daily check
 tags:
   - docs-change
   - auto-generated
 sources:
-  - https://github.com/ros-planning/moveit2
-hash_previous: c5b443d8c1ee4657134cce9d04ff21fb49f275b3f9228896c281ad7cc935e91e
-hash_current: bb1fe4085c5a49f280f81e1e21618500e23953f4524e7c5d779a72aeaf507e2c
+  - https://docs.nvidia.com/deeplearning/cudnn/api/index.html
+hash_previous: 
+hash_current: b55bd2e13f5ebdd278ad403e7ed84ada0a6f951e894193b874c9216d3ebdb1c8
 layout: engineering-devlog
 ---
 
-# Moveit2 docs – daily check
+# Cudnn docs – daily check
 
 ## Context
 
-Daily documentation scan for **Moveit2**.
+Daily documentation scan for **Cudnn**.
 This note is part of the continuous tracking of upstream changes across the stack.
 
 ## Observed changes
@@ -27,12 +27,12 @@ This note is part of the continuous tracking of upstream changes across the stac
 
 ## Technical details
 
-- Previous combined hash: `c5b443d8c1ee4657134cce9d04ff21fb49f275b3f9228896c281ad7cc935e91e`
-- New combined hash: `bb1fe4085c5a49f280f81e1e21618500e23953f4524e7c5d779a72aeaf507e2c`
+- Previous combined hash: `N/A`
+- New combined hash: `b55bd2e13f5ebdd278ad403e7ed84ada0a6f951e894193b874c9216d3ebdb1c8`
 
 ### Tracked sources
 
-- https://github.com/ros-planning/moveit2
+- https://docs.nvidia.com/deeplearning/cudnn/api/index.html
 
 ## Impact
 

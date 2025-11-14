@@ -1,34 +1,43 @@
 ---
 date: 2025-11-14
 technology: cuda
-title: Cuda docs  daily check
+title: Cuda docs – daily check
 tags:
-  - docs-change
+  - docs-check
   - auto-generated
 sources:
   - https://docs.nvidia.com/cuda/index.html
-hash_previous: 
+hash_previous: 6be26e010e2d32bcc595cac12cda5fad3fa19a25337f35d8226cde93e66bf024
 hash_current: 6be26e010e2d32bcc595cac12cda5fad3fa19a25337f35d8226cde93e66bf024
+layout: engineering-devlog
 ---
 
-# Cuda docs  daily check
+# Cuda docs – daily check
 
-## High-level summary
+## Context
 
-- Detected a content change in the official documentation sources.
-- The exact diff is not stored here, but this note marks that something
-  changed in the upstream docs for Cuda.
+Daily documentation scan for **Cuda**.
+On this run, no relevant content drift was detected based on hash comparison.
 
-## Details
+## Observed changes
 
-- Previous combined hash: `N/A`
-- New combined hash: `6be26e010e2d32bcc595cac12cda5fad3fa19a25337f35d8226cde93e66bf024`
+- No significant differences in the tracked documentation sources.
+
+## Technical details
+
+- Combined hash: `6be26e010e2d32bcc595cac12cda5fad3fa19a25337f35d8226cde93e66bf024`
 
 ### Tracked sources
 
 - https://docs.nvidia.com/cuda/index.html
 
-## Notes / next actions
+## Impact
 
-- [ ] Review the upstream documentation pages and identify the most relevant changes.
-- [ ] Update any local notes or code examples that depend on this documentation.
+- Local notes and examples are still aligned with the current upstream docs
+  (as far as this coarse check can tell).
+
+## Follow-up
+
+- [ ] No immediate action required.
+- [ ] (Optional) Skim the docs if you are about to start new work related
+      to this technology.

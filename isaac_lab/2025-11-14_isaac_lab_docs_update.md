@@ -1,34 +1,50 @@
 ---
 date: 2025-11-14
 technology: isaac_lab
-title: Isaac Lab docs  daily check
+title: Isaac Lab docs – daily check
 tags:
   - docs-change
   - auto-generated
 sources:
   - https://github.com/isaac-sim/IsaacLab
-hash_previous: 
-hash_current: 443a146cb2fcc19800412b068ae74f55c7fff855f1e589908996ba6e92741134
+hash_previous: 3f66d9f4da834e6ab167f8a4cb9de5c825eceb84808df1994aa84647e1df5c2f
+hash_current: 585ae1d6f9cebf8fbf53c41f200e61ef91284f33a133080bea22cb00f8ecceaa
+layout: engineering-devlog
 ---
 
-# Isaac Lab docs  daily check
+# Isaac Lab docs – daily check
 
-## High-level summary
+## Context
 
-- Detected a content change in the official documentation sources.
-- The exact diff is not stored here, but this note marks that something
-  changed in the upstream docs for Isaac Lab.
+Daily documentation scan for **Isaac Lab**.
+This note is part of the continuous tracking of upstream changes across the stack.
 
-## Details
+## Observed changes
 
-- Previous combined hash: `N/A`
-- New combined hash: `443a146cb2fcc19800412b068ae74f55c7fff855f1e589908996ba6e92741134`
+- Upstream documentation content changed (hash comparison only).
+- The exact diff is not stored here; the goal is to flag the day as
+  "docs changed" so it can be reviewed manually when needed.
+
+## Technical details
+
+- Previous combined hash: `3f66d9f4da834e6ab167f8a4cb9de5c825eceb84808df1994aa84647e1df5c2f`
+- New combined hash: `585ae1d6f9cebf8fbf53c41f200e61ef91284f33a133080bea22cb00f8ecceaa`
 
 ### Tracked sources
 
 - https://github.com/isaac-sim/IsaacLab
 
-## Notes / next actions
+## Impact
 
-- [ ] Review the upstream documentation pages and identify the most relevant changes.
-- [ ] Update any local notes or code examples that depend on this documentation.
+- Potentially affects local notes, learning material, or code relying on
+  the documented APIs/behaviour.
+- Recommended to skim the relevant sections if actively working with this
+  technology this week.
+
+## Follow-up
+
+- [ ] Review the upstream docs and identify the most relevant changes.
+- [ ] Update local notes or examples if any breaking or important behavioural
+      changes are found.
+- [ ] (Optional) Capture a short manual summary in a separate note if the
+      change is substantial.
